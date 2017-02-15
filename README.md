@@ -1,10 +1,8 @@
 # hello-world
 hello world
 
-izmena
+izmena readme-edit branch
 
-
-
-promena readme.md
+123456...
 
 15.02.2017
