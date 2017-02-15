@@ -3,8 +3,6 @@ hello world
 
 izmena
 
-
-
-promena readme.md
+123456...
 
 15.02.2017
